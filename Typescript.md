@@ -1,0 +1,1 @@
+Typescript - это типизированный [[Javascript]]
